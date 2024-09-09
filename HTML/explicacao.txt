@@ -1,0 +1,21 @@
+TAGS:
+<div>               texto que ocupa toda a linha|| tipo: block
+<p>                 parágrafo ||tipo: block
+<span>              texto que ocupa só o necessário|| tipo inline
+<a>                 link
+<br>                quebra a linha
+<h1>                título ||tipo: block
+<img>               imagem
+LIST <ul|li|ol>     lista
+<ul>                |desordenado
+<il>                |ordenado
+<ol>                |esqueci
+TABLE <th|td|tr>    tabela
+<th>                |divisória
+<td>                |coluna
+<tr>                |linha
+TEXT <b|i|u|strong> texto+detalhe
+<b>                 |negrito
+<i>                 |itálico
+<u>                 |sublinhado
+<strong>            |negrito com ênfase
