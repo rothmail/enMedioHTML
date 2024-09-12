@@ -1,0 +1,45 @@
+body {
+    background-color: #A49393;
+}
+
+img {
+    border-radius: 10px;
+}
+
+button {
+    border-radius: 5px;
+    background-color: rgb(151, 118, 130);
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #67595E;
+    inline-size: 16%;
+    border-radius: 15px;
+    font-size: 50px;
+}
+
+th {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #67595E;
+    inline-size: 16%;
+    border-radius: 10px;
+    font-size: 24px;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #67595E;
+    inline-size: 10%;
+    border-radius: 5px;
+    font-size: 24px;
+}
+
+a {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #67595E;
+    color: black;
+    inline-size: 20%;
+    border-radius: 5px;
+    font-size: 15px;
+}
