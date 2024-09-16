@@ -1,0 +1,47 @@
+* {
+    margin: 10px;
+    padding: auto;
+}
+
+body {
+    background-color: #814827;
+}
+
+h1 {
+    background-color: #AA9473;
+    border-radius: 5px;
+    inline-size: 35%; /*não lembro por que isso mas um motivo teve*/
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    font: 24px;
+    background-color: #AA9473;
+    border-radius: 5px;
+    inline-size: 20%;
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    font: 24px;
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 5px;
+}
+
+a {
+    color: black;
+    background-color: #AA9473;
+    border-radius: 5px;
+}

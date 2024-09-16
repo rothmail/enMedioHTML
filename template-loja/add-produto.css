@@ -1,0 +1,15 @@
+* {
+    margin: 10px;
+    padding: auto;
+}
+
+body {
+    background-color: #814827;
+}
+
+a {
+    color: black;
+    background-color: #AA9473;
+    border-radius: 5px;
+    inline-size: 50%;
+}
