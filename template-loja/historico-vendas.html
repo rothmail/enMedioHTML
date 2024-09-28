@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/historico-vendas.css">
+    <title>Histórico de Vendas</title>
+</head>
+
+<body>
+    <header>
+        <a href="index.html">Página Inicial</a>
+        <a href="ctrl-estoque.html">Controle de Estoque</a>
+    </header>
+    <main>
+        <section>
+            <h2>Histórico de Vendas</h2>
+            <form>
+                <label>Funcionário:</label></br>
+                <select id="funcionario">
+                    <option></option>
+                    <option value="maria">Maria</option>
+                    <option value="marcos">Marcos</option>
+                    <option value="luana">Luana</option>
+                    <option value="luis">Luis</option>
+                </select>
+                </br>
+                </br>
+
+                <label for="data">Data:</label>
+                <input type="date" id="data" name="data">
+
+                <label for="hora">Hora:</label>
+                <input type="time" id="hora" name="hora">
+
+                <button type="submit">Filtrar</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Lant&Joulas | Onde há lantejoulas, há glamour.</p>
+    </footer>
+</body>
+
+</html>
