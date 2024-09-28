@@ -1,0 +1,57 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f9f6f1;
+    color: #5a4d41;
+    margin: 0;
+}
+
+header {
+    background-color: #d6c1b1;
+    padding: 20px;
+    text-align: center;
+}
+
+a {
+    color: #5a4d41;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+form {
+    background-color: #fbf7f4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #e0d6cb;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #d6c1b1;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #d6c1b1;
+    padding: 10px;
+    text-align: center;
+}

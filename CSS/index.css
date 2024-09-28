@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f9f6f1;
+    color: #5a4d41;
+    margin: 0;
+}
+
+header {
+    background-color: #d6c1b1;
+    padding: 20px;
+    text-align: center;
+}
+
+a {
+    color: #5a4d41;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+section p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+footer {
+    background-color: #d6c1b1;
+    padding: 10px;
+    text-align: center;
+}
+
+footer p {
+    margin: 5px;
+}
+
+footer img {
+    vertical-align: middle;
+}
