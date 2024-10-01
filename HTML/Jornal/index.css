@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+}
+
+#inicio {
+    background-color: blueviolet;
+}
+
+#links {
+    background-color: brown;
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+}
+
+#noticia {
+    background-color: chocolate;
+    display: inline-block;
+    width: 69%;
+    height: 100%;
+}
+
+img {
+    width: 30%;
+}

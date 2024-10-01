@@ -1,0 +1,20 @@
+body {
+    background-color: #A49393;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #67595E;
+    inline-size: 32%;
+    border-radius: 15px;
+    font-size: 50px;
+}
+
+a {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #67595E;
+    color: black;
+    inline-size: 20%;
+    border-radius: 5px;
+    font-size: 15px;
+}

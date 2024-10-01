@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+}
+
+#teste:hover {
+    background-color: red;
+    color: white;
+}
+
+#teste:active {
+    background-color: pink;
+    color: red;
+}

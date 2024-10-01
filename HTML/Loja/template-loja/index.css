@@ -1,0 +1,66 @@
+* {
+    margin: 10px;
+    padding: auto;
+}
+
+body {
+    background-color: #814827; /*cor do fundo*/
+}
+
+h1 {
+    background-color: #AA9473; /*cor do fundo*/
+    border-radius: 5px;
+    inline-size: 35%; /*não lembro por que isso mas um motivo teve*/
+    color: black;
+}
+
+h2 {
+    font: 24px;
+    border-radius: 5px; /*curvatura*/
+    inline-size: 20%;
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    font: 24px;
+    color: black;
+}
+
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 5px; /*curvatura*/
+    border-style: double; /*fez uma borda dupla ;-;*/
+    border-color: #AA9473;
+}
+
+.link {
+    border-radius: 3px; /*curvatura*/
+    inline-size: 40%;
+    background-color:#AA9473;
+}
+
+a {
+    color: black;
+}
+
+#p-slogan {
+    background-color: #AA9473;
+    inline-size: 35%;
+    border-radius: 5px; /*curvatura*/
+}
+
+#p-informacoes {
+    background-color: #AA9473;
+    inline-size: 35%;
+    border-radius: 10px; /*curvatura*/
+}
+
+.icon-p {
+    font-size: 15px;
+}

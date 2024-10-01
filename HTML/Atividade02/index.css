@@ -1,0 +1,32 @@
+body {
+    background-color: #A49393;
+}
+
+img {
+    border-radius: 5px;
+}
+
+button {
+    border-radius: 5px;
+    background-color: rgb(151, 118, 130);
+}
+
+a {
+    color: black;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #67595E;
+    inline-size: 25%;
+    border-radius: 15px;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #67595E;
+    inline-size: 13%;
+    border-radius: 10px;
+    font-size: 30px;
+}
